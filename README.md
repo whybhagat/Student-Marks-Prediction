@@ -110,8 +110,3 @@ models/student_mark_model.pkl
 git clone https://github.com/surajpathak23/Student-Marks-Prediction.git
 cd Student-Marks-Prediction
 ```
-
----
-## Contact
-📌 *Author: Suraj Kumar*
-🔗 [LinkedIn](https://www.linkedin.com/in/suraj-kumar-2307skp/) | [GitHub](https://github.com/surajpathak23) | [WhatsApp](https://wa.me/919142496994)
